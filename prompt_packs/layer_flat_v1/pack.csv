@@ -1,0 +1,255 @@
+prompt_id,family,level,control_id,cv,slope,corr,z_cv,control_z_cv,dz_cv,z_slope,control_z_slope,dz_slope,cv_pass_slope,max_abs_z_layer,ood_prob,is_ood,text_ok,n_generated_tokens,prompt,control_prompt,generated_text,chart
+boilerplate-L4-02,boilerplate,4,boilerplate-ctl-02,0.7323389203873298,0.0803941767814193,0.999417455862868,-1.904225281604614,0.776343583193072,-2.680568864797686,1.4359716674972909,3.7146435058794367,-2.278671838382146,-0.0085604822921661,4.86444295930837,1.4467695248696019e-05,False,True,64,"Terms of reference:
+1. The parties acknowledge and agree that the foregoing provisions shall apply mutatis mutandis to any and all subsequent amendments hereto.
+2. The parties acknowledge and agree that the foregoing provisions shall apply mutatis mutandis to any and all subsequent amendments hereto.
+3. The parties acknowledge and agree that the foregoing provisions shall apply mutatis mutandis to any and all subsequent amendments hereto.
+4. The parties acknowledge and agree that the foregoing provisions shall apply mutatis mutandis to any and all subsequent amendments hereto.
+5. The parties acknowledge and agree that the foregoing provisions shall apply mutatis mutandis to any and all subsequent amendments hereto.
+6. The parties acknowledge and agree that the foregoing provisions shall apply mutatis mutandis to any and all subsequent amendments hereto.
+7. The parties acknowledge and agree that the foregoing provisions shall apply mutatis mutandis to any and all subsequent amendments hereto.
+8. The parties acknowledge and agree that the foregoing provisions shall apply mutatis mutandis to any and all subsequent amendments hereto.
+9. The parties acknowledge and agree that the foregoing provisions shall apply mutatis mutandis to any and all subsequent amendments hereto.
+10. The parties acknowledge and agree that the foregoing provisions shall apply mutatis mutandis to any and all subsequent amendments hereto.
+11. The parties acknowledge and agree that the foregoing provisions shall apply mutatis mutandis to any and all subsequent amendments hereto.
+12. The parties acknowledge and agree that the foregoing provisions shall apply mutatis mutandis to any and all subsequent amendments hereto.
+13. The parties acknowledge and agree that the foregoing provisions shall apply mutatis mutandis to any and all subsequent amendments hereto.
+14. The parties acknowledge and agree that the foregoing provisions shall apply mutatis mutandis to any and all subsequent amendments hereto.
+15. The parties acknowledge and agree that the foregoing provisions shall apply mutatis mutandis to any and all subsequent amendments hereto.
+16. The parties acknowledge and agree that the foregoing provisions shall apply mutatis mutandis to any and all subsequent amendments hereto.
+17. The parties acknowledge and agree that the foregoing provisions shall apply mutatis mutandis to any and all subsequent amendments hereto.
+18. The parties acknowledge and agree that the foregoing provisions shall apply mutatis mutandis to any and all subsequent amendments hereto.
+
+What are the SOLID principles in object-oriented programming?",What are the SOLID principles in object-oriented programming?,"The SOLID principles in object-oriented programming refer to several design principles that help ensure code quality, maintainability, and scalability. These principles are:
+
+1. **Single Responsibility Principle (SRP)**: A class should have only one reason for change. This means that each class should be responsible for its own specific functionality without",charts/boilerplate-L4-02.png
+uniform_list-L3-06,uniform_list,3,uniform_list-ctl-06,0.7369953825868809,0.074885184874178,0.9984418448679232,-1.5472954161352062,0.7460446950743522,-2.2933401112095586,-2.244840083240873,1.194920271695305,-3.439760354936178,-0.0026988775833486,3.163501641472791,4.09072289027259e-08,False,True,38,"Reference table:
+- record 001: status=ok, value=1, unit=none
+- record 002: status=ok, value=1, unit=none
+- record 003: status=ok, value=1, unit=none
+- record 004: status=ok, value=1, unit=none
+- record 005: status=ok, value=1, unit=none
+- record 006: status=ok, value=1, unit=none
+- record 007: status=ok, value=1, unit=none
+- record 008: status=ok, value=1, unit=none
+- record 009: status=ok, value=1, unit=none
+- record 010: status=ok, value=1, unit=none
+- record 011: status=ok, value=1, unit=none
+- record 012: status=ok, value=1, unit=none
+- record 013: status=ok, value=1, unit=none
+- record 014: status=ok, value=1, unit=none
+- record 015: status=ok, value=1, unit=none
+- record 016: status=ok, value=1, unit=none
+- record 017: status=ok, value=1, unit=none
+- record 018: status=ok, value=1, unit=none
+- record 019: status=ok, value=1, unit=none
+- record 020: status=ok, value=1, unit=none
+- record 021: status=ok, value=1, unit=none
+- record 022: status=ok, value=1, unit=none
+- record 023: status=ok, value=1, unit=none
+
+What is the chemical formula for table salt?",What is the chemical formula for table salt?,"Table salt (sodium chloride, NaCl) has the following chemical formula:
+
+NaCl
+
+This is the standard chemical notation used to represent sodium chloride in chemistry and other scientific fields.",charts/uniform_list-L3-06.png
+repeated_phrase-L5-04,repeated_phrase,5,repeated_phrase-ctl-04,0.7271170365928975,0.0752463500864256,0.9992875999750696,-2.304496174048089,-0.4567965942262783,-1.847699579821811,-2.0035289360141775,-1.3110297359736176,-0.6924992000405599,-0.00539281783465,5.159886454219784,1.6822514560119076e-06,False,True,18,"Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+Consider the background information that follows.
+
+Compose a haiku about a slow rain falling on autumn leaves.",Compose a haiku about a slow rain falling on autumn leaves.,"Autumn leaves whisper,
+Rain falls softly, gentle touch,
+Nature's symphony.",charts/repeated_phrase-L5-04.png
+boilerplate-L5-07,boilerplate,5,boilerplate-ctl-07,0.7262749436931073,0.072903305776366,0.998869715098451,-2.3690447717933556,-0.8775066305843303,-1.4915381412090252,-3.5690249785172337,0.9092086978367796,-4.478233676354013,-0.0167253176891258,3.801639379920726,4.3506221924853196e-05,False,True,64,"Terms of reference:
+1. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+2. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+3. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+4. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+5. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+6. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+7. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+8. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+9. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+10. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+11. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+12. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+13. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+14. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+15. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+16. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+17. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+18. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+19. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+20. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+21. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+22. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+23. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+24. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+25. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+26. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+27. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+28. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+29. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+30. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+31. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+32. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+33. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+34. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+35. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+36. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+37. Nothing in this section shall be construed so as to limit, restrict or otherwise affect any right or remedy otherwise available at law.
+
+At what temperature does aluminum melt?",At what temperature does aluminum melt?,"Aluminum melts at 2800 degrees Celsius (5000 degrees Fahrenheit). This is the melting point of pure aluminum, which is typically used for its strength and durability. However, it's important to note that aluminum can also melt at lower temperatures depending on the specific alloy being used. For example,",charts/boilerplate-L5-07.png
+uniform_list-L4-00,uniform_list,4,uniform_list-ctl-00,0.7402270772485208,0.0749221453611265,0.9995829425889392,-1.2995776657519802,0.1222562648244018,-1.421833930576382,-2.2201450760664634,-0.8847914398982206,-1.3353536361682428,-0.0134619359124428,2.1005042766012267,0.0001263814685592094,False,True,64,"Reference table:
+- record 001: status=ok, value=1, unit=none
+- record 002: status=ok, value=1, unit=none
+- record 003: status=ok, value=1, unit=none
+- record 004: status=ok, value=1, unit=none
+- record 005: status=ok, value=1, unit=none
+- record 006: status=ok, value=1, unit=none
+- record 007: status=ok, value=1, unit=none
+- record 008: status=ok, value=1, unit=none
+- record 009: status=ok, value=1, unit=none
+- record 010: status=ok, value=1, unit=none
+- record 011: status=ok, value=1, unit=none
+- record 012: status=ok, value=1, unit=none
+- record 013: status=ok, value=1, unit=none
+- record 014: status=ok, value=1, unit=none
+- record 015: status=ok, value=1, unit=none
+- record 016: status=ok, value=1, unit=none
+- record 017: status=ok, value=1, unit=none
+- record 018: status=ok, value=1, unit=none
+- record 019: status=ok, value=1, unit=none
+- record 020: status=ok, value=1, unit=none
+- record 021: status=ok, value=1, unit=none
+- record 022: status=ok, value=1, unit=none
+- record 023: status=ok, value=1, unit=none
+- record 024: status=ok, value=1, unit=none
+- record 025: status=ok, value=1, unit=none
+- record 026: status=ok, value=1, unit=none
+- record 027: status=ok, value=1, unit=none
+- record 028: status=ok, value=1, unit=none
+- record 029: status=ok, value=1, unit=none
+- record 030: status=ok, value=1, unit=none
+- record 031: status=ok, value=1, unit=none
+- record 032: status=ok, value=1, unit=none
+- record 033: status=ok, value=1, unit=none
+- record 034: status=ok, value=1, unit=none
+- record 035: status=ok, value=1, unit=none
+- record 036: status=ok, value=1, unit=none
+- record 037: status=ok, value=1, unit=none
+- record 038: status=ok, value=1, unit=none
+- record 039: status=ok, value=1, unit=none
+- record 040: status=ok, value=1, unit=none
+- record 041: status=ok, value=1, unit=none
+- record 042: status=ok, value=1, unit=none
+- record 043: status=ok, value=1, unit=none
+- record 044: status=ok, value=1, unit=none
+- record 045: status=ok, value=1, unit=none
+- record 046: status=ok, value=1, unit=none
+- record 047: status=ok, value=1, unit=none
+- record 048: status=ok, value=1, unit=none
+- record 049: status=ok, value=1, unit=none
+- record 050: status=ok, value=1, unit=none
+- record 051: status=ok, value=1, unit=none
+- record 052: status=ok, value=1, unit=none
+- record 053: status=ok, value=1, unit=none
+- record 054: status=ok, value=1, unit=none
+
+Honestly that's the best thing I've heard all day, made me actually smile.","Honestly that's the best thing I've heard all day, made me actually smile.","I'm glad you found it amusing! As an AI language model, my purpose is to assist and provide useful information to users like you. While I don't have emotions or personal experiences, I can certainly appreciate your positive feedback on my responses. If you have any other questions or need further assistance, feel free to ask",charts/uniform_list-L4-00.png

@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+runs/
+*.egg-info/
+
+# Client request payloads. Only its sha256 is committed, in the provenance
+# sidecar — see README "Provenance".
+reference/qwen_stg_prompts_*.csv
